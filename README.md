@@ -1,4 +1,4 @@
-subconsultas e views com sql
+### subconsultas e views com sql
 
 Neste projeto de SQL, utilizei o MariaDB (uma variante do MySQL) para realizar o povoamento de tabelas, criar consultas e visualizações (views). O contexto do projeto foi baseado em uma empresa fictícia que possui dados relacionados a departamentos, empregados, projetos, trabalhos e dependentes dos empregados.
 
